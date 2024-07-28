@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://odiaten.github.io/sitemap.html.gz
+Sitemap: https://odiaten.github.io/app/sitemap.html.gz
+Sitemap: https://odiaten.github.io/assets/sitemap.html.gz
+Sitemap: https://odiaten.github.io/css/sitemap.html.gz
+Sitemap: https://odiaten.github.io/includes/sitemap.html.gz
+Sitemap: https://odiaten.github.io/item/sitemap.html.gz
+Sitemap: https://odiaten.github.io/src/sitemap.html.gz
